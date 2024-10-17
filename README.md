@@ -8,3 +8,4 @@ I declared some formatting functions in the beginning for readability. However, 
 - I used [this](https://pandas.pydata.org/docs/reference/general_functions.html) to create my formatting functions.
 - I used [this](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) to check why my dataframes were not working. 
 - I used [this](https://pandas.pydata.org/docs/reference/api/pandas.cut.html) to get more help with pd.cut.
+- I used [this](https://github.com/jupyter/notebook/issues/1080) to figure out why dollar signs were messing up my markdown file. 
